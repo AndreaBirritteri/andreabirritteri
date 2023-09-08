@@ -12,6 +12,6 @@
 - [Kitchen Task Manager with Design Patterns](https://github.com/AndreaBirritteri/laboratorio-sas-2021-2022) (Java and MySql)
 - [Exercises on Java Concurrency](https://github.com/AndreaBirritteri/Efficient_Parallel_Programming) (Java)
 - [Client/Server Mail with MultiThreading](https://github.com/AndreaBirritteri/Client_Server_Mail_Socket_Multithread) (Java)
-- [Exercises on AI/ML](https://github.com/AndreaBirritteri/AI-ML-2022) (Jupyter)
+- [Exercises on AI/ML](https://github.com/AndreaBirritteri/AI-ML-2022) (Jupyter/Python)
 - [Thesis](https://github.com/AndreaBirritteri/Thesis) (A smart contract-based access management system for storing files on an IPFS network)
 
