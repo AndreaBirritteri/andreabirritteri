@@ -5,7 +5,7 @@
 -->
 
 ## Projects
-- [Exercises on Algorithms and Data Structures](https://github.com/AndreaBirritteri/laboratorio-algoritmi-2021-2022) (C and Java)
+- [Exercises on Algorithms and Data Structures](https://github.com/AndreaBirritteri/laboratorio-algoritmi) (C and Java)
 - [Lexer, Parser and Interpreter](https://github.com/AndreaBirritteri/Lexer_Linguaggi_Formali_Traduttori) (Java)
 - [Booking App for Lessons](https://github.com/AndreaBirritteri/laboratorio-IUM-2021-2022) (Kotlin)
 - [Booking Website for Lessons](https://github.com/AndreaBirritteri/laboratorio-TWEB) (Vue.js and "Java->MySql" **Dockerized**)
